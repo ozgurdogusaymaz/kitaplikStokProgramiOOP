@@ -1,0 +1,2 @@
+# kitaplikStokProgramiOOP
+Ktipalık Stok
